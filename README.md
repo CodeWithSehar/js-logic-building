@@ -1,51 +1,32 @@
-# 💛 JavaScript Logic Building
+# 🚀 JavaScript Logic Building & 100 Days of Code
 
-Welcome to my JavaScript repository! This project tracks my coding journey from scratch as I practice core programming fundamentals, variable operations, and basic logic building.
-
----
-
-## 🚀 Practice Programs
-
-Here is the list of logic building tasks implemented in this repository:
-
-1. **Days in a Year** (`01_variables_basics.js`) - Storing and printing the number of days in a year inside a sentence[cite: 1].
-2. **Restaurant Bill Calculator** (`02_restaurant_bill.js`) - Calculating the total bill including food cost and tax[cite: 2].
-3. **Student Percentage Calculator** (`03_student_percentage.js`) - Calculating a student's percentage based on secured marks[cite: 3].
-4. **Voting Eligibility Checker** (`04_voting_eligibility.js`) - Checking voting eligibility using comparison operators[cite: 4].
-
-*Note: All scripts are linked and executed via the main `index.html` file[cite: 5].*
+Welcome to my JavaScript repository! This project tracks my daily coding journey as I build a strong foundation in core JavaScript, data types, DOM manipulation, and logic-building fundamentals.
 
 ---
 
-## 💻 How to Run the Code
+## 📌 Project Overview
+This repository contains my daily practice files, mini-projects, and exercise tasks for the `#100DaysOfCode` challenge.
 
-Follow these simple steps in your terminal or Git Bash:
-
-1. **Clone this project:**
-   ```bash
-   git clone [https://github.com/CodeWithSehar/js-logic-building.git](https://github.com/CodeWithSehar/js-logic-building.git)
-
-```
-
-2. **Go inside the folder:**
-```bash
-cd "java script"
-
-```
-
-
-3. **Run a specific file using Node.js:**
-```bash
-node 01_variables_basics.js
-
-```
-
-
+* **Language:** JavaScript (ES6+) / HTML5
+* **Goal:** Master core programming concepts and problem-solving.
+* **Tracking:** Code activity, daily commits, and logic implementation.
 
 ---
 
-✨ *Happy Coding! Building a strong foundation, one script at a time.*
+## 📁 Repository Structure
+Each day's work is organized inside clean, dedicated files following this naming convention:
 
-```
+* `dayX-[topic-name].js` - JavaScript logic, variables, functions, and algorithms.
+* `dayX-[topic-name].html` - HTML file linked with JS for browser console outputs.
 
-```
+---
+
+## 🛠️ How to Run
+1. Open any `.html` file in your preferred web browser.
+2. Right-click anywhere on the page and select **Inspect > Console**.
+3. View the live outputs and logged results!
+
+---
+
+✨ *Building a strong developer foundation, one script at a time!*  
+**Connect with me:** `#100DaysOfCode` | `#bugsmash`
