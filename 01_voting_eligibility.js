@@ -8,7 +8,7 @@
    
 */
 let legal_age=18;
-let p_age=2;
+let p_age=20;
 if(p_age>=legal_age)
 {
 console.log("person is eligible for voting");}
