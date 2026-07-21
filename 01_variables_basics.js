@@ -9,4 +9,4 @@
 
 let a=365;
 let b='days';
-console.log("ik saal m "   +a+   "  "   +b+   "  hote ay");
+console.log("there are"   +a+   "  "   +b+   " in one year");

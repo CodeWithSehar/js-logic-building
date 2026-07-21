@@ -7,11 +7,12 @@
    to vote or not using a comparison operator. 
    
 */
-let legal_age=18;
-let p_age=20;
-if(p_age>=legal_age)
-{
-console.log("person is eligible for voting");}
-else {
-    console.log("Person is NOT eligible for voting");
+
+const legalAge = 18;
+let personAge = 20;
+
+if (personAge >= legalAge) {
+  console.log("Person is eligible for voting");
+} else {
+  console.log("Person is NOT eligible for voting");
 }
